@@ -1,0 +1,1 @@
+bst.cpp contains functions to create and maintain a bst tree that stores integer values. bstMain.cpp takes one argument which specifies a text file to read integers from, it then creates an bst and prints the number of integers read, number of nodes in the tree, and the height of the tree. 
